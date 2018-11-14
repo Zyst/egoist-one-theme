@@ -1,10 +1,10 @@
 ;;; atom-one-dark-theme.el --- Atom One Dark color theme
 
-;; Copyright 2015-2017 Jonathan Chu
+;; Copyright 2018 Zyst
 
-;; Author: Jonathan Chu <me@jonathanchu.is>
-;; URL: https://github.com/jonathanchu/atom-one-dark-theme
-;; Version: 0.4.0
+;; Author: Zyst <https://github.com/Zyst>
+;; URL: https://github.com/Zyst/egoist-one-theme
+;; Version: 0.1.0
 
 ;; This file is not part of GNU Emacs.
 
@@ -23,7 +23,9 @@
 
 ;;; Commentary:
 
-;; An Emacs port of the Atom One Dark theme from Atom.io.
+;; This is my fork of atom-one-dark-theme which customizes some elements
+;; to my liking.
+
 
 ;;; Code:
 
