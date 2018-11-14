@@ -43,7 +43,7 @@
                    ("atom-one-dark-mono-3"   . (if ,256color "color-240" "#5C6370"))
                    ("atom-one-dark-cyan"     . "#56B6C2")
                    ("atom-one-dark-blue"     . "#61AFEF")
-                   ("atom-one-dark-purple"   . "#C678DD")
+                   ("atom-one-dark-purple"   . "#D19A66")
                    ("atom-one-dark-green"    . "#98C379")
                    ("atom-one-dark-red-1"    . "#E06C75")
                    ("atom-one-dark-red-2"    . "#BE5046")
