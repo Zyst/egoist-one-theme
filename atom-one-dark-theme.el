@@ -30,7 +30,7 @@
 ;;; Code:
 
 (deftheme atom-one-dark
-  "Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.")
+  "Egoist One - Fork of atom-one-dark-theme which customizes some elements to my liking")
 
 (defvar atom-one-dark-colors-alist
   (let* ((256color  (eq (display-color-cells (selected-frame)) 256))
